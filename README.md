@@ -1,9 +1,9 @@
 # 👋 Welcome to this part of the internet
 
 We are glad you found us!
-Looks empty around here, right? Let me explain: Our GitHub account is vacant, since we switched to a self-hosted Gitlab instance about four years ago. But that does not mean that we can't put some good use to this free real estate.
+Looks empty around here, right? Let me explain: Our GitHub account is vacant, since we switched to a self-hosted Gitlab instance some time ago. But that does not mean that we can't put some good use to this free real estate.
 
-ottonova is always looking for creative and talented people, who are enthusiastic to build great products.
+ottonova is always looking for creative and talented people, who are enthusiastic to build great software.
 So we would like to take this opportunity to give you some hints on what we are currently looking for in our IT departments:
 
 ## 🛰 IT Operations
