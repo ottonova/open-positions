@@ -20,16 +20,19 @@ So we would like to take this opportunity to give you some hints on what we are 
 -   Team spirit. We help each other and find solutions together; we learn from mistakes
 -   Mutual feedback culture
 -   International team
--   Best IT equipment of your choice
+-   Modern IT equipment of your choice
 -   Flexible work schedule
 -   Remote working option (worldwide)
 -   30 vacation days
--   Company and team events
--   Offices in the center of Munich and Cologne, Germany
 -   Budget for books, e-learning, conferences & coaching
+-   Offices in the center of Munich and Cologne, Germany
+-   Company and team events
 -   Regular Hackathons
 -   Gym membership
+-   Company bike program
+-   Travel allowance for public transportation
 -   Relocation support
 -   Support with visa application process
+-   Debit Card with 50€/month tax-free to spend at local dealers in Munich area 
 
 If this sparked your interest, please contact us via our website ✌️
