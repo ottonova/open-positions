@@ -34,3 +34,9 @@ So we would like to take this opportunity to give you some hints on what we are 
 -   Debit Card with 50€/month tax-free to spend at local dealers in Munich area 
 
 If this sparked your interest, please contact us via our website ✌️
+
+# Our Tech-Radar
+
+We Mmaintain a Tech-Radar to list our tech stack at: https://tech-radar.ottonova.de/
+It's a tool to inspire and support engineering teams at ottonova to pick the best technologies for new projects.
+It provides a platform to share knowledge and experience in technologies, to reflect on technology decisions and continuously envolve our technology landscape.
