@@ -35,7 +35,7 @@ So we would like to take this opportunity to give you some hints on what we are 
 
 If this sparked your interest, please contact us via our website ✌️
 
-# Our Tech-Radar
+# 📡 Our Tech-Radar
 
 We Mmaintain a Tech-Radar to list our tech stack at: https://tech-radar.ottonova.de/
 It's a tool to inspire and support engineering teams at ottonova to pick the best technologies for new projects.
